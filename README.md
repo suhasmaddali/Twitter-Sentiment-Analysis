@@ -1,6 +1,5 @@
 # Twitter-Sentiment-Analysis
-![images](images.jpg)
-It would give a great value to companies when they launch products and understand the sentiment of users through different tweets and comments. This guarantees that the companies understand the behavior of the customers and make changes based on the sentiment and therefore, take actions based on insights from the comments and improve the overall revenue of the company respectively. 
+![images](images.jpg) It would give a great value to companies when they launch products and understand the sentiment of users through different tweets and comments. This guarantees that the companies understand the behavior of the customers and make changes based on the sentiment and therefore, take actions based on insights from the comments and improve the overall revenue of the company respectively. 
 
 
 ![images](Twitter-sentiment-analysis-1.jpg)
