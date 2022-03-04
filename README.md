@@ -6,7 +6,7 @@
 
 ## Problem Statement
 
-It would give a great value to companies when they launch products and understand the sentiment of users through different tweets and comments. This guarantees that the companies understand the behavior of the customers and make changes based on the sentiment and therefore, take actions based on insights from the comments and improve the overall revenue of the company respectively. 
+It would give a great value to companies when they launch products and understand the sentiment of users through __different tweets__ and __comments__. This guarantees that the companies understand the behavior of the customers and make changes based on the __sentiment__ and therefore, take actions based on insights from the comments and improve the __overall revenue__ of the company respectively. 
 
 
 ![images](Twitter-sentiment-analysis-1.jpg)
