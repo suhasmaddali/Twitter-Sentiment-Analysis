@@ -18,6 +18,12 @@ Using machine learning techniques and text extraction, we are going to be predic
 ## Natural Language Processing (NLP)
 We would be using the natural language processing that is required when doing the machine learning analysis. Performing the natural language processing ensures that the words that are present are converted into mathematical vectors that are used for different macihne learning models for prediction. Once the mathematical vectors are converted into different vectors, they are given for the machine learning models for prediction respectively. Therefore, with the features that are present in the text along with some newly created features, the machine learning and deep learnimg models would be using those techniques and ensures that they are getting the best outputs respectively. 
 
+## Exploratory Data Analysis
+
+* After performing exploratory data analysis, it could be seen based on the results that there are comparatively more number of neutral words compared to either positive or negative sentiments. 
+* With the use of word clouds, it could be seen that words such as good, awesome and great were used most frequently.
+* On the contrary, it could ben seen for the negative word cloud that words such as hate, sorry and sad were used most frequently. 
+
 ## Vectorizers 
 
 It is important to use vectorizers that are important for machine learning. Therefore, a given text which is in the form of a string is converted into a vectorial representation that is what is being used by machine learning models for prediction. Below are some of the vectorizers that were used in the process of converting a text into a mathematical representation. 
