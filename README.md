@@ -18,6 +18,13 @@ Using machine learning techniques and text extraction, we are going to be predic
 ## Natural Language Processing (NLP)
 We would be using the natural language processing that is required when doing the machine learning analysis. Performing the natural language processing ensures that the words that are present are converted into mathematical vectors that are used for different macihne learning models for prediction. Once the mathematical vectors are converted into different vectors, they are given for the machine learning models for prediction respectively. Therefore, with the features that are present in the text along with some newly created features, the machine learning and deep learnimg models would be using those techniques and ensures that they are getting the best outputs respectively. 
 
+## Vectorizers 
+
+It is important to use vectorizers that are important for machine learning. Therefore, a given text which is in the form of a string is converted into a vectorial representation that is what is being used by machine learning models for prediction. Below are some of the vectorizers that were used in the process of converting a text into a mathematical representation. 
+
+* Count Vectorizer
+* Tfidf Vectorizer
+
 ## Hyperparameter Tuning 
 
 Once we understand the different machine learning models, we are going to use the hyperparameter tuning which ensures that good set of hyperparameters are selected and this would result in machine learning models that creates the best results respectively. Once we get those important results for the hyperparameters, we are going to use them and ensure that we are getting the best accuracy for the machine learning models. We are going to learn the different hyperparameters and how they influence the machine learning models and the outcome of different problem statements. Therefore, let us now get an understanding of the project and see how these machine learning models are using for production respectively. 
