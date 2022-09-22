@@ -35,7 +35,7 @@ It is important to use vectorizers that are important for machine learning. Ther
 
 In this project, there was only one ML model used to get the prediction of the sentiment of tweets. Below is the model that was used for the task of prediction.
 
-[__Deep Neural Networks__](https://www.tensorflow.org/api_docs/python/tf/keras/Model)
+* [__Deep Neural Networks__](https://www.tensorflow.org/api_docs/python/tf/keras/Model)
 
 
 ## Hyperparameter Tuning 
