@@ -31,6 +31,12 @@ It is important to use vectorizers that are important for machine learning. Ther
 * [__Count Vectorizer__](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html)
 * [__Tfidf Vectorizer__](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
 
+## Machine Learning Models
+
+In this project, there was only one ML model used to get the prediction of the sentiment of tweets. Below is the model that was used for the task of prediction.
+
+
+
 ## Hyperparameter Tuning 
 
 Once we understand the different machine learning models, we are going to use the hyperparameter tuning which ensures that good set of hyperparameters are selected and this would result in machine learning models that creates the best results respectively. Once we get those important results for the hyperparameters, we are going to use them and ensure that we are getting the best accuracy for the machine learning models. We are going to learn the different hyperparameters and how they influence the machine learning models and the outcome of different problem statements. Therefore, let us now get an understanding of the project and see how these machine learning models are using for production respectively. 
