@@ -47,16 +47,13 @@ There are more number of neutral sentiments for a large number of texts as compa
 
 <img src = "https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Negative%20wordcloud.jpg"/>
 
-## Results 
-
-<img src = "https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Model%20Performance.jpg"/>
-
-
-
-
 ## Hyperparameter Tuning 
 
 Once we understand the different machine learning models, we are going to use hyperparameter tuning which ensures that a good set of hyperparameters are selected and this would result in machine learning models that create the best results respectively. Once we get those important results for the hyperparameters, we are going to use them and ensure that we are getting the best accuracy for the machine learning models. We are going to learn the different hyperparameters and how they influence the machine learning models and the outcome of different problem statements. Therefore, let us now get an understanding of the project and see how these machine learning models are used for production respectively. 
+
+## Results 
+
+<img src = "https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Model%20Performance.jpg"/>
 
 ## 👉 Directions to download the repository and run the notebook 
 
