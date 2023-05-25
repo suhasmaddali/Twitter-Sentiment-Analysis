@@ -39,7 +39,7 @@ We have an image depicting a dataframe and a list of features. We will utilize t
 
 <img src = "https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Input%20Data.jpg"/>
 
-There are more number of neutral sentiments for a large number of texts as compared to negative or positive texts. This is reflected in the countplot below that highlights the difference in the count of these categories. 
+The countplot below illustrates that the majority of texts are classified as neutral sentiment, while the count of negative and positive texts is comparatively lower. This indicates a higher prevalence of neutral sentiments in the dataset.
 
 <img src = "https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Sentiment%20countplot.jpg"/>
 
