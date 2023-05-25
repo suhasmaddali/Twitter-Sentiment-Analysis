@@ -20,9 +20,7 @@ We would be using the __natural language processing__ that is required when doin
 
 ## Exploratory Data Analysis (EDA)
 
-* After performing __exploratory data analysis__, it could be seen based on the results that there is a comparatively more number of neutral sentences compared to either positive or negative sentiments. 
-* With the use of __word clouds__, it could be seen that words such as good, awesome, and great were used most frequently.
-* On the contrary, it could be seen for the negative __word cloud__ that words such as hate, sorry and sad were used most frequently. 
+After performing __exploratory data analysis__, it could be seen based on the results that there is a comparatively more number of neutral sentences compared to either positive or negative sentiments. With the use of __word clouds__, it could be seen that words such as good, awesome, and great were used most frequently. On the contrary, it could be seen for the negative __word cloud__ that words such as hate, sorry and sad were used most frequently. 
 
 ## Vectorizers 
 
