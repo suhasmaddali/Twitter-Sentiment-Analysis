@@ -26,6 +26,8 @@ In the below image, we understand the dataframe and the list of features availab
 
 <img src = "https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Input%20Data.jpg"/>
 
+There are more number of neutral sentiments for a large number of texts as compared to negative or positive texts. This is reflected in the countplot below that highlights the difference in the count of these categories. 
+
 <img src = "https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Sentiment%20countplot.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Positive%20wordcloud.jpg"/>
