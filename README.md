@@ -22,6 +22,8 @@ We would be using the __natural language processing__ that is required when doin
 
 After performing __exploratory data analysis__, it could be seen based on the results that there is a comparatively more number of neutral sentences compared to either positive or negative sentiments. With the use of __word clouds__, it could be seen that words such as good, awesome, and great were used most frequently. On the contrary, it could be seen for the negative __word cloud__ that words such as hate, sorry and sad were used most frequently. 
 
+In the below image, we understand the dataframe and the list of features available in our data. We are going to be using the 'text' feature and use the output feature as the 'sentiment'. We will be predicting the chances of a text being either positive, negative or neutral. 
+
 <img src = "https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Input%20Data.jpg"/>
 
 <img src = "https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Sentiment%20countplot.jpg"/>
