@@ -22,6 +22,8 @@ We would be using the __natural language processing__ that is required when doin
 
 After performing __exploratory data analysis__, it could be seen based on the results that there is a comparatively more number of neutral sentences compared to either positive or negative sentiments. With the use of __word clouds__, it could be seen that words such as good, awesome, and great were used most frequently. On the contrary, it could be seen for the negative __word cloud__ that words such as hate, sorry and sad were used most frequently. 
 
+<img src = "https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Input%20Data.jpg"/>
+
 ## Vectorizers 
 
 It is important to use vectorizers that are important for machine learning. Therefore, a given text which is in the form of a string is converted into a vectorial representation which is what is being used by machine learning models for prediction. Below are some of the vectorizers that were used in the process of converting a text into a mathematical representation. 
