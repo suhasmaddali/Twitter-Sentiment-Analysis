@@ -57,7 +57,7 @@ In our project, after gaining a comprehensive understanding of various machine l
 
 ## Results 
 
-There seems to be some overfitting from the data as shown by the discrepancy between the training loss and the test loss. However, we can still use this model for predictions as it might be able to generalize well on the test data despite its performance on the training data seem to be too good. 
+The observed discrepancy between the training loss and the test loss suggests the presence of overfitting in the data. Despite this, the model could still be utilized for predictions, considering its potential ability to generalize well on unseen test data, despite its exceptionally strong performance on the training data.
 
 <img src = "https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Model%20Performance.jpg"/>
 
