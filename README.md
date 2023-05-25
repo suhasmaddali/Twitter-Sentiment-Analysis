@@ -53,6 +53,8 @@ Once we understand the different machine learning models, we are going to use hy
 
 ## Results 
 
+There seems to be some overfitting from the data as shown by the discrepancy between the training loss and the test loss. However, we can still use this model for predictions as it might be able to generalize well on the test data despite its performance on the training data seem to be too good. 
+
 <img src = "https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Model%20Performance.jpg"/>
 
 ## 👉 Directions to download the repository and run the notebook 
