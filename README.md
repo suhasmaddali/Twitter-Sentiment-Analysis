@@ -53,7 +53,7 @@ The wordcloud provided showcases negative tweets within the dataset. Notably, re
 
 ## Hyperparameter Tuning 
 
-Once we understand the different machine learning models, we are going to use hyperparameter tuning which ensures that a good set of hyperparameters are selected and this would result in machine learning models that create the best results respectively. Once we get those important results for the hyperparameters, we are going to use them and ensure that we are getting the best accuracy for the machine learning models. We are going to learn the different hyperparameters and how they influence the machine learning models and the outcome of different problem statements. Therefore, let us now get an understanding of the project and see how these machine learning models are used for production respectively. 
+In our project, after gaining a comprehensive understanding of various machine learning models, we will proceed with hyperparameter tuning. This crucial step aims to select optimal hyperparameters that can yield the best results for each specific model. By carefully selecting these hyperparameters, we can enhance the accuracy and performance of our machine learning models. Our objective is to explore and grasp the influence of different hyperparameters on the models and how they impact the outcomes for various problem statements. Ultimately, we aim to apply these optimized machine learning models in a production environment, leveraging their capabilities to achieve the desired results.
 
 ## Results 
 
