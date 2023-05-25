@@ -28,6 +28,8 @@ After performing __exploratory data analysis__, it could be seen based on the re
 
 <img src = "https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Positive%20wordcloud.jpg"/>
 
+<img src = "https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Negative%20wordcloud.jpg"/>
+
 ## Vectorizers 
 
 It is important to use vectorizers that are important for machine learning. Therefore, a given text which is in the form of a string is converted into a vectorial representation which is what is being used by machine learning models for prediction. Below are some of the vectorizers that were used in the process of converting a text into a mathematical representation. 
