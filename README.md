@@ -6,7 +6,7 @@
 
 ## Problem Statement
 
-The ability to analyze user sentiment through tweets and comments can provide significant value to companies during product launches. By understanding customer behavior and incorporating sentiment analysis, companies can gain insights from user feedback. This empowers them to make informed decisions, take necessary actions, and improve overall revenue by addressing customer concerns and making targeted improvements accordingly.
+The ability to analyze user sentiment through tweets and comments can provide significant value to companies during __product launches__. By understanding customer behavior and incorporating __sentiment analysis__, companies can gain insights from user feedback. This empowers them to make informed decisions, take necessary actions, and improve overall __revenue__ by addressing customer concerns and making targeted improvements accordingly.
 
 ![images](Twitter-sentiment-analysis-1.jpg)
 
