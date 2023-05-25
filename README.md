@@ -47,6 +47,8 @@ Wordcloud gives a good representation by the presence of words based on their si
 
 <img src = "https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Positive%20wordcloud.jpg"/>
 
+The wordcloud below shows the negative tweets in the data. Looking at the words, there are words such as "hate" and "sad" which often occur. This can be quite indicative of the negative tweets. 
+
 <img src = "https://github.com/suhasmaddali/Twitter-Sentiment-Analysis/blob/main/images/Negative%20wordcloud.jpg"/>
 
 ## Hyperparameter Tuning 
